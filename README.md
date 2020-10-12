@@ -6,6 +6,7 @@
 </h1>
 
 <p align="center">
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/426466ab-0d29-4df9-a36e-93cd4aa1ff74/deploy-status)](https://app.netlify.com/sites/itsmevictorhugo-happy/deploys)
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -53,28 +54,11 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
 2. Executando a Aplicação:
 
 ```sh
-  # API
-  $ cd server
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Configurando o banco de dados e criando as tabelas.
-  $ yarn knex:migrate # ou npm run knex:migrate
-
-  # Inicie a API
-  $ yarn start # ou npm start
-
   # Aplicação web
   $ cd web
   # Instalando as dependências do projeto.
   $ yarn # ou npm install
   # Inicie a aplicação web
-  $ yarn start # ou npm start
-
-  # Aplicação mobile
-  $ cd mobile
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Inicie a aplicação mobile
   $ yarn start # ou npm start
 ```
 
