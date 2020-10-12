@@ -6,7 +6,6 @@
 </h1>
 
 <p align="center">
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/426466ab-0d29-4df9-a36e-93cd4aa1ff74/deploy-status)](https://app.netlify.com/sites/itsmevictorhugo-happy/deploys)
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
