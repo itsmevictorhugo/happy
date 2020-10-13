@@ -1,7 +1,5 @@
 <h1 align="center">
-    
-    <img alt="Happy" src="https://ibb.co/QmZS3wJ" height="100px" />
-   
+    <img alt="Happy" src="./.github/images/happy-banner.svg" height="100%" />
     <br>HAPPY<br/>
 </h1>
 
