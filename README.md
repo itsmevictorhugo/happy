@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./.github/images/happy-banner.svg" width="100%" alt="Happy"/>
+    <img alt="Happy" src="web/.github/images/happy-banner.svg" width="100%" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,8 @@
 
 <!-- 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="#" />
+  <img alt="Web - Home" src="web/.github/images/web-home.svg" width="500px" />
+  <img alt="Web - Map" src="web/.github/images/web-map.svg" width="500px" />
 <p>
 -->
 
