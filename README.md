@@ -23,7 +23,7 @@ O **Happy** é uma aplicação Web e Mobile para Orfanatos de crianças. Nela vo
   
 Pensando no **12 de outubro**, que se comemora o **Dia das Crianças**.
   
-Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
+Essa aplicação foi realizada durante a **Next Level Week #3**, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 
