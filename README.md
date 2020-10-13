@@ -1,8 +1,5 @@
 <h1 align="center">
-    
-    <img alt="Happy" src="https://ibb.co/QmZS3wJ" height="100px" />
-   
-    <br>HAPPY<br/>
+    <img src="https://i.ibb.co/kcpbsCG/happy-banner.png" width="350px" alt="Happy"/>
 </h1>
 
 <p align="center">
