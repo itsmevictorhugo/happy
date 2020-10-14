@@ -11,3 +11,4 @@ const mapIcon = Leaflet.icon({
 })
 
 export default mapIcon;
+
