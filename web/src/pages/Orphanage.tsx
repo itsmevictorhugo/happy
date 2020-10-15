@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+// import { FaWhatsapp } from "react-icons/fa";
 import { FiClock, FiInfo } from "react-icons/fi";
 import { Map, Marker, TileLayer } from "react-leaflet";
 import { useParams } from 'react-router-dom';
@@ -51,20 +52,18 @@ export default function Orphanage() {
           <img src={orphanage.images[activeImageIndex].url} alt={orphanage.name} />
 
           <div className="images">
-            {orphanage.images.map((image, index) => {
-              return (
-                <button 
-                  key={image.id} 
-                  className={activeImageIndex === index ? 'active' : ''} 
-                  type="button"
-                  onClick={() => {
-                    setActiveImageIndex(index);
-                  }}
-                >
-                  <img src={image.url} alt={orphanage.name} />
-                </button>
-              )
-            })}
+            {orphanage.images.map((image, index) => (
+              <button
+                key={image.id}
+                className={activeImageIndex === index ? 'active' : ''}
+                type="button"
+                onClick={() => {
+                  setActiveImageIndex(index);
+                }}
+              >
+                <img src={image.url} alt={orphanage.name} />
+              </button>
+            ))}
           </div>
 
           <div className="orphanage-details-content">
@@ -112,12 +111,17 @@ export default function Orphanage() {
                 </div>
               ) : (
                 <div className="open-on-weekends dont-open">
-                  <FiInfo size={32} color="#FF669D" />
-                  Não Atendemos <br />
+                  <FiInfo size={32} color="#FF6690" />
+                  Não atendemos <br />
                   fim de semana
                 </div>
               ) }
             </div>
+
+            {/* <button type="button" className="contact-button">
+              <FaWhatsapp size={20} color="#FFF" />
+              Entrar em contato
+            </button> */}
           </div>
         </div>
       </main>
