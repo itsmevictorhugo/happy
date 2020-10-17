@@ -3,66 +3,41 @@
 </h1>
 
 <p align="center">
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
+  <img alt="Made by Victor Hugo" src="https://img.shields.io/badge/made%20by- VICTOR HUGO -%15C3D6?style=flat-square&color=15C3D6&labelColor=000"><br/>
+</p>
+
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-<!-- 
-<p align="center">
-  <img alt="Web - Home" src="web/.github/images/web-home.svg" width="500px" />
-  <img alt="Web - Map" src="web/.github/images/web-map.svg" width="500px" />
-<p>
--->
-
 ## :bookmark: Sobre
 
-O **Happy** é uma aplicação Web e Mobile para Orfanatos de crianças. Nela você encontra as informações necessárias para saber como fazer uma visita e até mesmo dos Orfanatos que existem na região.
-  
-Pensando no **12 de outubro**, que se comemora o **Dia das Crianças**.
-  
-Essa aplicação foi realizada durante a **Next Level Week #3**, projeto da [Rocketseat](https://rocketseat.com.br/).
+O **Happy** é uma aplicação para levar felicidade através da disponibilização de casas de acolhimento institucional. Nele você encontra as informações necessárias para tornar o dia de uma criança mais feliz 💜
 
-## :rocket: Tecnologias
+## 🔖 Layout
 
--  [Typescript](https://www.typescriptlang.org/)
--  [Node.js](https://nodejs.org/en/)
+Layouts do projeto disponíveis nos links. Para acessar, crie uma conta no [Figma](http://figma.com/).
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
+- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
+
+## 🚀 Tecnologias
+
 -  [Yarn](https://yarnpkg.com/)
 -  [ReactJS](https://reactjs.org/)
+-  [Node.js](https://nodejs.org/en/)
 -  [React Native](http://facebook.github.io/react-native/)
-
-## :boom: Como Executar
-
-- ### **Pré-requisitos**
-
-  - **Instale** o **[Node.js](https://nodejs.org/en/)** instalado no computador
-  - **Instale** o **[Git](https://git-scm.com/)** instalado e configurado no computador
-  - Também, **instale** o  ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
-
-1. Clonando o repositório:
-
-```sh
-  $ git clone https://github.com/itsmevictorhugo/happy.git
-```
-
-2. Executando a Aplicação:
-
-```sh
-  # Aplicação web
-  $ cd web
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Inicie a aplicação web
-  $ yarn start # ou npm start
-```
+-  [Expo](https://expo.io/)
+-  [Typescript](https://www.typescriptlang.org/)
 
 
+<h4>Feito com ♥ by Victor Hugo :wave:</h4>
+
+<sup>Projeto desenvolvido durante a NLW3/Omnistack com [Diego Fernandes](https://github.com/diego3g) da [Rocketseat](rocketseat.com.br).</sup>
+
+---
 ## :memo: Licença
 
 Esse projeto possui a licença MIT. Veja no arquivo [LICENSE](LICENSE.md) para mais informações.
-
----
-<sup>Projeto desenvolvido durante a Next Level Week 3 com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
