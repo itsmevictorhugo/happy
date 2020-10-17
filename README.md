@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
 </p>
 
-## :bookmark: Sobre
+## 🔖 Sobre
 
 O **Happy** é uma aplicação para levar felicidade através da disponibilização de casas de acolhimento institucional. Nele você encontra as informações necessárias para tornar o dia de uma criança mais feliz 💜
 
-## 🔖 Layout
+## 🖥️ Layout
 
 Layouts do projeto disponíveis nos links. Para acessar, crie uma conta no [Figma](http://figma.com/).
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
@@ -37,6 +37,6 @@ Layouts do projeto disponíveis nos links. Para acessar, crie uma conta no [Figm
 
 <sup>Projeto desenvolvido durante a NLW3/Omnistack com [Diego Fernandes](https://github.com/diego3g) da [Rocketseat](rocketseat.com.br).</sup>
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto possui a licença MIT. Veja no arquivo [LICENSE](LICENSE.md) para mais informações.
