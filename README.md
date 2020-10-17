@@ -37,7 +37,6 @@ Layouts do projeto disponíveis nos links. Para acessar, crie uma conta no [Figm
 
 <sup>Projeto desenvolvido durante a NLW3/Omnistack com [Diego Fernandes](https://github.com/diego3g) da [Rocketseat](rocketseat.com.br).</sup>
 
----
 ## :memo: Licença
 
 Esse projeto possui a licença MIT. Veja no arquivo [LICENSE](LICENSE.md) para mais informações.
