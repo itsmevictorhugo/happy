@@ -56,6 +56,6 @@ Layouts do projeto disponíveis nos links. Para acessar, crie uma conta no [Figm
 
 ## 📝 Licença
 
-Esse projeto possui a licença MIT. Veja no arquivo [LICENSE](LICENSE.md) para mais informações.
+Esse projeto possui a licença MIT. Veja no arquivo [LICENSE](LICENSE) para mais informações.
 
 <h4>Feito com ♥ by Victor Hugo :wave:</h4>
